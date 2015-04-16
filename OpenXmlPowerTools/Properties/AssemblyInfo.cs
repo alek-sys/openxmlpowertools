@@ -6,9 +6,9 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("OpenXmlPowerTools")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Fork of OpenXmlPowerTools")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Eric White, Alexey Nesterov")]
 [assembly: AssemblyProduct("OpenXmlPowerTools")]
 [assembly: AssemblyCopyright("Copyright ©  2014")]
 [assembly: AssemblyTrademark("")]
